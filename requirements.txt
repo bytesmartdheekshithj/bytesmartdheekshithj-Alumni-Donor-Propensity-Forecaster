@@ -1,0 +1,6 @@
+flask
+joblib
+numpy
+pandas
+scikit-learn
+python-dotenv==1.1.1

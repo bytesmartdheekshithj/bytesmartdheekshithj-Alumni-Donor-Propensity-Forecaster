@@ -1,0 +1,8 @@
+.env
+.git/
+__pycache__/
+*.pyc
+*.ipynb
+alumni_donor_dataset_2025.csv
+train_model.py
+alumni_donor_propensity_model_2025.pkl
